@@ -1,6 +1,6 @@
 ```javascript
 const me = (name, age) => {
-   return name+" "+age
+   return name+" "+age;
 }
-console.log(me("Guilhem", 24));
+me("Guilhem", 24);
 ```
